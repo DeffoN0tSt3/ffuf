@@ -46,4 +46,5 @@
 * [SolomonSklash](https://github.com/SolomonSklash)
 * [TomNomNom](https://github.com/tomnomnom)
 * [xfgusta](https://github.com/xfgusta)
+* [DeffoN0tSt3](https://github.com/DeffoN0tSt3/)
 
